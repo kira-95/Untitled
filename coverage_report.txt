@@ -1,0 +1,7 @@
+Name                        Stmts   Miss  Cover   Missing
+---------------------------------------------------------
+./test/TestApp.py              31      2    94%   13-14
+./test/test_analyzer.py        43      0   100%
+./test/test_classifier.py       8      0   100%
+---------------------------------------------------------
+TOTAL                          82      2    98%

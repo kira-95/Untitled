@@ -1,0 +1,101 @@
+../Untitled/app/auth.py:2:74: E231 missing whitespace after ','
+../Untitled/app/auth.py:31:1: E302 expected 2 blank lines, found 1
+../Untitled/app/auth.py:36:1: W293 blank line contains whitespace
+../Untitled/app/auth.py:39:1: W293 blank line contains whitespace
+../Untitled/app/auth.py:40:41: E226 missing whitespace around arithmetic operator
+../Untitled/app/auth.py:51:5: E265 block comment should start with '# '
+../Untitled/app/auth.py:52:5: E265 block comment should start with '# '
+../Untitled/app/auth.py:53:5: E265 block comment should start with '# '
+../Untitled/app/auth.py:54:23: E231 missing whitespace after ':'
+../Untitled/app/auth.py:58:1: E302 expected 2 blank lines, found 1
+../Untitled/app/auth.py:60:13: E225 missing whitespace around operator
+../Untitled/app/auth.py:63:1: E302 expected 2 blank lines, found 1
+../Untitled/app/auth.py:77:1: E303 too many blank lines (3)
+../Untitled/app/auth.py:121:1: E302 expected 2 blank lines, found 1
+../Untitled/app/auth.py:149:1: E303 too many blank lines (4)
+../Untitled/app/home.py:20:1: W391 blank line at end of file
+../Untitled/app/db.py:44:1: W391 blank line at end of file
+../Untitled/app/model/hate_speech/process.py:38:10: W605 invalid escape sequence '\s'
+../Untitled/app/model/hate_speech/process.py:39:13: W605 invalid escape sequence '\('
+../Untitled/app/model/hate_speech/process.py:39:15: W605 invalid escape sequence '\)'
+../Untitled/app/model/hate_speech/process.py:41:12: W605 invalid escape sequence '\w'
+../Untitled/app/model/hate_speech/process.py:41:14: W605 invalid escape sequence '\-'
+../Untitled/app/model/hate_speech/process.py:85:21: F405 'textstat' may be undefined, or defined from star imports: textstat.textstat
+../Untitled/app/model/hate_speech/process.py:119:10: W605 invalid escape sequence '\s'
+../Untitled/app/model/hate_speech/process.py:120:13: W605 invalid escape sequence '\('
+../Untitled/app/model/hate_speech/process.py:120:15: W605 invalid escape sequence '\)'
+../Untitled/app/model/hate_speech/process.py:122:12: W605 invalid escape sequence '\w'
+../Untitled/app/model/hate_speech/process.py:122:14: W605 invalid escape sequence '\-'
+../Untitled/app/model/hate_speech/process.py:123:12: W605 invalid escape sequence '\w'
+../Untitled/app/model/hate_speech/process.py:123:14: W605 invalid escape sequence '\-'
+../Untitled/app/model/hate_speech/process.py:187:13: E722 do not use bare 'except'
+../Untitled/app/model/hate_speech/classifier.py:49:6: W605 invalid escape sequence '\s'
+../Untitled/app/model/hate_speech/classifier.py:50:9: W605 invalid escape sequence '\('
+../Untitled/app/model/hate_speech/classifier.py:50:11: W605 invalid escape sequence '\)'
+../Untitled/app/model/hate_speech/classifier.py:52:8: W605 invalid escape sequence '\w'
+../Untitled/app/model/hate_speech/classifier.py:52:10: W605 invalid escape sequence '\-'
+../Untitled/app/model/hate_speech/classifier.py:103:6: W605 invalid escape sequence '\s'
+../Untitled/app/model/hate_speech/classifier.py:104:9: W605 invalid escape sequence '\('
+../Untitled/app/model/hate_speech/classifier.py:104:11: W605 invalid escape sequence '\)'
+../Untitled/app/model/hate_speech/classifier.py:106:8: W605 invalid escape sequence '\w'
+../Untitled/app/model/hate_speech/classifier.py:106:10: W605 invalid escape sequence '\-'
+../Untitled/app/model/hate_speech/classifier.py:107:8: W605 invalid escape sequence '\w'
+../Untitled/app/model/hate_speech/classifier.py:107:10: W605 invalid escape sequence '\-'
+../Untitled/app/model/hate_speech/classifier.py:127:17: F405 'textstat' may be undefined, or defined from star imports: textstat.textstat
+../Untitled/app/model/hate_speech/classifier.py:135:5: E265 block comment should start with '# '
+../Untitled/app/model/hate_speech/classifier.py:137:5: E265 block comment should start with '# '
+../Untitled/app/model/hate_speech/classifier.py:218:9: E722 do not use bare 'except'
+../Untitled/app/model/hate_speech/classifier.py:221:13: E722 do not use bare 'except'
+../Untitled/app/model/hate_speech/classifier.py:273:5: F811 redefinition of unused 'predictions' from line 187
+../Untitled/test/TestApp.py:2:10: E401 multiple imports on one line
+../Untitled/test/TestApp.py:11:1: E302 expected 2 blank lines, found 1
+../Untitled/test/test_analyzer.py:65:20: W292 no newline at end of file
+../Untitled/test/app/auth.py:2:74: E231 missing whitespace after ','
+../Untitled/test/app/auth.py:31:1: E302 expected 2 blank lines, found 1
+../Untitled/test/app/auth.py:36:1: W293 blank line contains whitespace
+../Untitled/test/app/auth.py:39:1: W293 blank line contains whitespace
+../Untitled/test/app/auth.py:40:41: E226 missing whitespace around arithmetic operator
+../Untitled/test/app/auth.py:51:5: E265 block comment should start with '# '
+../Untitled/test/app/auth.py:52:5: E265 block comment should start with '# '
+../Untitled/test/app/auth.py:53:5: E265 block comment should start with '# '
+../Untitled/test/app/auth.py:54:23: E231 missing whitespace after ':'
+../Untitled/test/app/auth.py:58:1: E302 expected 2 blank lines, found 1
+../Untitled/test/app/auth.py:60:13: E225 missing whitespace around operator
+../Untitled/test/app/auth.py:63:1: E302 expected 2 blank lines, found 1
+../Untitled/test/app/auth.py:77:1: E303 too many blank lines (3)
+../Untitled/test/app/auth.py:121:1: E302 expected 2 blank lines, found 1
+../Untitled/test/app/auth.py:149:1: E303 too many blank lines (4)
+../Untitled/test/app/home.py:20:1: W391 blank line at end of file
+../Untitled/test/app/db.py:44:1: W391 blank line at end of file
+../Untitled/test/app/model/hate_speech/process.py:38:10: W605 invalid escape sequence '\s'
+../Untitled/test/app/model/hate_speech/process.py:39:13: W605 invalid escape sequence '\('
+../Untitled/test/app/model/hate_speech/process.py:39:15: W605 invalid escape sequence '\)'
+../Untitled/test/app/model/hate_speech/process.py:41:12: W605 invalid escape sequence '\w'
+../Untitled/test/app/model/hate_speech/process.py:41:14: W605 invalid escape sequence '\-'
+../Untitled/test/app/model/hate_speech/process.py:85:21: F405 'textstat' may be undefined, or defined from star imports: textstat.textstat
+../Untitled/test/app/model/hate_speech/process.py:119:10: W605 invalid escape sequence '\s'
+../Untitled/test/app/model/hate_speech/process.py:120:13: W605 invalid escape sequence '\('
+../Untitled/test/app/model/hate_speech/process.py:120:15: W605 invalid escape sequence '\)'
+../Untitled/test/app/model/hate_speech/process.py:122:12: W605 invalid escape sequence '\w'
+../Untitled/test/app/model/hate_speech/process.py:122:14: W605 invalid escape sequence '\-'
+../Untitled/test/app/model/hate_speech/process.py:123:12: W605 invalid escape sequence '\w'
+../Untitled/test/app/model/hate_speech/process.py:123:14: W605 invalid escape sequence '\-'
+../Untitled/test/app/model/hate_speech/process.py:187:13: E722 do not use bare 'except'
+../Untitled/test/app/model/hate_speech/classifier.py:49:6: W605 invalid escape sequence '\s'
+../Untitled/test/app/model/hate_speech/classifier.py:50:9: W605 invalid escape sequence '\('
+../Untitled/test/app/model/hate_speech/classifier.py:50:11: W605 invalid escape sequence '\)'
+../Untitled/test/app/model/hate_speech/classifier.py:52:8: W605 invalid escape sequence '\w'
+../Untitled/test/app/model/hate_speech/classifier.py:52:10: W605 invalid escape sequence '\-'
+../Untitled/test/app/model/hate_speech/classifier.py:103:6: W605 invalid escape sequence '\s'
+../Untitled/test/app/model/hate_speech/classifier.py:104:9: W605 invalid escape sequence '\('
+../Untitled/test/app/model/hate_speech/classifier.py:104:11: W605 invalid escape sequence '\)'
+../Untitled/test/app/model/hate_speech/classifier.py:106:8: W605 invalid escape sequence '\w'
+../Untitled/test/app/model/hate_speech/classifier.py:106:10: W605 invalid escape sequence '\-'
+../Untitled/test/app/model/hate_speech/classifier.py:107:8: W605 invalid escape sequence '\w'
+../Untitled/test/app/model/hate_speech/classifier.py:107:10: W605 invalid escape sequence '\-'
+../Untitled/test/app/model/hate_speech/classifier.py:127:17: F405 'textstat' may be undefined, or defined from star imports: textstat.textstat
+../Untitled/test/app/model/hate_speech/classifier.py:135:5: E265 block comment should start with '# '
+../Untitled/test/app/model/hate_speech/classifier.py:137:5: E265 block comment should start with '# '
+../Untitled/test/app/model/hate_speech/classifier.py:218:9: E722 do not use bare 'except'
+../Untitled/test/app/model/hate_speech/classifier.py:221:13: E722 do not use bare 'except'
+../Untitled/test/app/model/hate_speech/classifier.py:273:5: F811 redefinition of unused 'predictions' from line 187

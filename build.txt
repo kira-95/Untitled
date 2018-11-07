@@ -1,0 +1,450 @@
+Collecting aniso8601==3.0.2 (from -r requirements.txt (line 1))
+  Downloading https://files.pythonhosted.org/packages/17/13/eecdcc638c0ea3b105ebb62ff4e76914a744ef1b6f308651dbed368c6c01/aniso8601-3.0.2-py2.py3-none-any.whl
+Collecting beautifulsoup4==4.6.3 (from -r requirements.txt (line 2))
+  Downloading https://files.pythonhosted.org/packages/f8/c7/741c97d7366f4779ca73d244904978b43a81fd37d85fcf05ad19d472c1ce/beautifulsoup4-4.6.3-py2-none-any.whl (90kB)
+Collecting certifi==2018.10.15 (from -r requirements.txt (line 3))
+  Downloading https://files.pythonhosted.org/packages/56/9d/1d02dd80bc4cd955f98980f28c5ee2200e1209292d5f9e9cc8d030d18655/certifi-2018.10.15-py2.py3-none-any.whl (146kB)
+Collecting chardet==3.0.4 (from -r requirements.txt (line 4))
+  Downloading https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl (133kB)
+Collecting Click==7.0 (from -r requirements.txt (line 5))
+  Downloading https://files.pythonhosted.org/packages/fa/37/45185cb5abbc30d7257104c434fe0b07e5a195a6847506c074527aa599ec/Click-7.0-py2.py3-none-any.whl (81kB)
+Collecting Flask==1.0.2 (from -r requirements.txt (line 6))
+  Downloading https://files.pythonhosted.org/packages/7f/e7/08578774ed4536d3242b14dacb4696386634607af824ea997202cd0edb4b/Flask-1.0.2-py2.py3-none-any.whl (91kB)
+Collecting Flask-HTTPAuth==3.2.4 (from -r requirements.txt (line 7))
+  Downloading https://files.pythonhosted.org/packages/2c/9c/80a90bb4da6b8ea26c6ccab8e13acd7cd40a5cb441afcff2b213024f804b/Flask_HTTPAuth-3.2.4-py2.py3-none-any.whl
+Collecting Flask-RESTful==0.3.6 (from -r requirements.txt (line 8))
+  Downloading https://files.pythonhosted.org/packages/47/08/89cf8594735392cd71752f7cf159fa63765eac3e11b0da4324cdfeaea137/Flask_RESTful-0.3.6-py2.py3-none-any.whl
+Collecting Flask-SQLAlchemy==2.3.2 (from -r requirements.txt (line 9))
+  Downloading https://files.pythonhosted.org/packages/a1/44/294fb7f6bf49cc7224417cd0637018db9fee0729b4fe166e43e2bbb1f1c8/Flask_SQLAlchemy-2.3.2-py2.py3-none-any.whl
+Collecting idna==2.7 (from -r requirements.txt (line 10))
+  Downloading https://files.pythonhosted.org/packages/4b/2a/0276479a4b3caeb8a8c1af2f8e4355746a97fab05a372e4a2c6a6b876165/idna-2.7-py2.py3-none-any.whl (58kB)
+Collecting ItsDangerous==1.1.0 (from -r requirements.txt (line 11))
+  Downloading https://files.pythonhosted.org/packages/76/ae/44b03b253d6fade317f32c24d100b3b35c2239807046a4c953c7b89fa49e/itsdangerous-1.1.0-py2.py3-none-any.whl
+Collecting Jinja2==2.10 (from -r requirements.txt (line 12))
+  Downloading https://files.pythonhosted.org/packages/7f/ff/ae64bacdfc95f27a016a7bed8e8686763ba4d277a78ca76f32659220a731/Jinja2-2.10-py2.py3-none-any.whl (126kB)
+Collecting MarkupSafe==1.0 (from -r requirements.txt (line 13))
+  Downloading https://files.pythonhosted.org/packages/4d/de/32d741db316d8fdb7680822dd37001ef7a448255de9699ab4bfcbdf4172b/MarkupSafe-1.0.tar.gz
+Collecting nltk==3.3 (from -r requirements.txt (line 14))
+  Downloading https://files.pythonhosted.org/packages/50/09/3b1755d528ad9156ee7243d52aa5cd2b809ef053a0f31b53d92853dd653a/nltk-3.3.0.zip (1.4MB)
+Collecting numpy==1.15.3 (from -r requirements.txt (line 15))
+  Downloading https://files.pythonhosted.org/packages/9e/eb/c9eda9f4865d669e0bb37ce5c780e86c63daa54ca827b95a171429012d08/numpy-1.15.3-cp27-cp27mu-manylinux1_x86_64.whl (13.8MB)
+Collecting pandas==0.23.4 (from -r requirements.txt (line 16))
+  Downloading https://files.pythonhosted.org/packages/b7/e3/f52d484244105fa3d558ce8217a5190cd3d40536076bef66d92d01566325/pandas-0.23.4-cp27-cp27mu-manylinux1_x86_64.whl (8.9MB)
+Collecting passlib==1.7.1 (from -r requirements.txt (line 17))
+  Downloading https://files.pythonhosted.org/packages/ee/a7/d6d238d927df355d4e4e000670342ca4705a72f0bf694027cf67d9bcf5af/passlib-1.7.1-py2.py3-none-any.whl (498kB)
+Collecting Pyphen==0.9.5 (from -r requirements.txt (line 18))
+  Downloading https://files.pythonhosted.org/packages/15/82/08a3629dce8d1f3d91db843bb36d4d7db6b6269d5067259613a0d5c8a9db/Pyphen-0.9.5-py2.py3-none-any.whl (3.0MB)
+Collecting python-dateutil==2.7.3 (from -r requirements.txt (line 19))
+  Downloading https://files.pythonhosted.org/packages/cf/f5/af2b09c957ace60dcfac112b669c45c8c97e32f94aa8b56da4c6d1682825/python_dateutil-2.7.3-py2.py3-none-any.whl (211kB)
+Collecting pytz==2018.6 (from -r requirements.txt (line 20))
+  Downloading https://files.pythonhosted.org/packages/52/8b/876c5745f617630be90cfb8fafe363c6d7204b176dc707d1805d1e9a0a35/pytz-2018.6-py2.py3-none-any.whl (507kB)
+Collecting repoze.lru==0.7 (from -r requirements.txt (line 21))
+  Downloading https://files.pythonhosted.org/packages/12/bc/595a77c4b5e204847fdf19268314ef59c85193a9dc9f83630fc459c0fee5/repoze.lru-0.7.tar.gz
+Collecting requests==2.20.0 (from -r requirements.txt (line 22))
+  Downloading https://files.pythonhosted.org/packages/f1/ca/10332a30cb25b627192b4ea272c351bce3ca1091e541245cccbace6051d8/requests-2.20.0-py2.py3-none-any.whl (60kB)
+Collecting scikit-learn==0.18 (from -r requirements.txt (line 23))
+  Downloading https://files.pythonhosted.org/packages/9a/51/4b2c24523ca21e9f3efadff99096067f1fdb20dd0b2a4582d68e63612a59/scikit_learn-0.18-cp27-cp27mu-manylinux1_x86_64.whl (11.4MB)
+Collecting scipy==1.1.0 (from -r requirements.txt (line 24))
+  Downloading https://files.pythonhosted.org/packages/2a/f3/de9c1bd16311982711209edaa8c6caa962db30ebb6a8cc6f1dcd2d3ef616/scipy-1.1.0-cp27-cp27mu-manylinux1_x86_64.whl (30.8MB)
+Collecting six==1.11.0 (from -r requirements.txt (line 25))
+  Downloading https://files.pythonhosted.org/packages/67/4b/141a581104b1f6397bfa78ac9d43d8ad29a7ca43ea90a2d863fe3056e86a/six-1.11.0-py2.py3-none-any.whl
+Collecting SQLAlchemy==1.2.12 (from -r requirements.txt (line 26))
+  Downloading https://files.pythonhosted.org/packages/25/c9/b0552098cee325425a61efdf380c51b5c721e459081c85bbb860f501c091/SQLAlchemy-1.2.12.tar.gz (5.6MB)
+Collecting textstat==0.5.0 (from -r requirements.txt (line 27))
+  Downloading https://files.pythonhosted.org/packages/4b/99/9d98cb0682445a535f68f1ec0b440da053d39824e54eba2810abaf409e46/textstat-0.5.0.tar.gz
+Collecting urllib3==1.24 (from -r requirements.txt (line 28))
+  Downloading https://files.pythonhosted.org/packages/8c/4b/5cbc4cb46095f369117dcb751821e1bef9dd86a07c968d8757e9204c324c/urllib3-1.24-py2.py3-none-any.whl (117kB)
+Collecting vaderSentiment==3.2.1 (from -r requirements.txt (line 29))
+  Downloading https://files.pythonhosted.org/packages/86/9e/c53e1fc61aac5ee490a6ac5e21b1ac04e55a7c2aba647bb8411c9aadf24e/vaderSentiment-3.2.1-py2.py3-none-any.whl (125kB)
+Collecting Werkzeug==0.14.1 (from -r requirements.txt (line 30))
+  Downloading https://files.pythonhosted.org/packages/20/c4/12e3e56473e52375aa29c4764e70d1b8f3efa6682bef8d0aae04fe335243/Werkzeug-0.14.1-py2.py3-none-any.whl (322kB)
+Collecting wincertstore==0.2 (from -r requirements.txt (line 31))
+  Downloading https://files.pythonhosted.org/packages/d1/67/12f477fa1cc8cbcdc78027c9fb0933ad41daf2e95a29d1cc8f34fe80c692/wincertstore-0.2-py2.py3-none-any.whl
+Collecting Flask-OAuth==0.12 (from -r requirements.txt (line 32))
+  Downloading https://files.pythonhosted.org/packages/06/86/0ee429eb76e1ac357544129336e83d9f829e3e1f042ea217c0ac8504a0a7/Flask-OAuth-0.12.tar.gz
+Collecting pre-commit==1.12.0 (from -r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/56/c7/a1211acfdcd251b09d9dd6e51a582d2bf9c890ededc9016dd6e47aca1758/pre_commit-1.12.0-py2.py3-none-any.whl (147kB)
+Collecting oauth2 (from Flask-OAuth==0.12->-r requirements.txt (line 32))
+  Downloading https://files.pythonhosted.org/packages/a0/6f/86db603912ecd04109af952c38bc08928886cf0e34c723481fa7db98b4b5/oauth2-1.9.0.post1-py2.py3-none-any.whl
+Collecting aspy.yaml (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/9f/e3/5d2ba9d098b687d3676a5a557f7edc15bb544d4c2af9fc7105469d2ba624/aspy.yaml-1.1.1-py2.py3-none-any.whl
+Collecting cfgv>=1.0.0 (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/65/53/049d31c9a486f75326f7431ac2119b1a4549e8db69c6280109e7b1e80b81/cfgv-1.1.0-py2.py3-none-any.whl
+Collecting importlib-resources; python_version < "3.7" (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/2f/f7/b4aa02cdd3ee7ebba375969d77c00826aa15c5db84247d23c89522dccbfa/importlib_resources-1.0.2-py2.py3-none-any.whl
+Collecting cached-property (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/3b/86/85c1be2e8db9e13ef9a350aecd6dea292bd612fa288c2f40d035bb750ded/cached_property-1.5.1-py2.py3-none-any.whl
+Requirement already satisfied: pyyaml in /usr/lib/python2.7/dist-packages (from pre-commit==1.12.0->-r requirements.txt (line 33))
+Collecting identify>=1.0.0 (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/09/65/75d8f14c096096ddc28f22e701b7fb4d43e9f91596336cc96bdfe2f97c92/identify-1.1.7-py2.py3-none-any.whl
+Requirement already satisfied: virtualenv in /usr/local/lib/python2.7/dist-packages (from pre-commit==1.12.0->-r requirements.txt (line 33))
+Collecting toml (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/a2/12/ced7105d2de62fa7c8fb5fce92cc4ce66b57c95fb875e9318dba7f8c5db0/toml-0.10.0-py2.py3-none-any.whl
+Collecting importlib-metadata (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/d5/e4/49da554657aebdfe3e26beefc605fabd5dfa054b1864f8a2c527537a3dba/importlib_metadata-0.6-py2.py3-none-any.whl
+Collecting nodeenv>=0.11.1 (from pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/00/6e/ed417bd1ed417ab3feada52d0c89ab0ed87d150f91590badf84273e047c9/nodeenv-1.3.3.tar.gz
+Collecting httplib2 (from oauth2->Flask-OAuth==0.12->-r requirements.txt (line 32))
+  Downloading https://files.pythonhosted.org/packages/fd/ce/aa4a385e3e9fd351737fd2b07edaa56e7a730448465aceda6b35086a0d9b/httplib2-0.11.3.tar.gz (215kB)
+Collecting pathlib2; python_version < "3" (from importlib-resources; python_version < "3.7"->pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/66/a7/9f8d84f31728d78beade9b1271ccbfb290c41c1e4dc13dbd4997ad594dcd/pathlib2-2.3.2-py2.py3-none-any.whl
+Collecting typing; python_version < "3.5" (from importlib-resources; python_version < "3.7"->pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/cc/3e/29f92b7aeda5b078c86d14f550bf85cff809042e3429ace7af6193c3bc9f/typing-3.6.6-py2-none-any.whl
+Collecting contextlib2; python_version < "3" (from importlib-metadata->pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/a2/71/8273a7eeed0aff6a854237ab5453bc9aa67deb49df4832801c21f0ff3782/contextlib2-0.5.5-py2.py3-none-any.whl
+Collecting scandir; python_version < "3.5" (from pathlib2; python_version < "3"->importlib-resources; python_version < "3.7"->pre-commit==1.12.0->-r requirements.txt (line 33))
+  Downloading https://files.pythonhosted.org/packages/16/2a/557af1181e6b4e30254d5a6163b18f5053791ca66e251e77ab08887e8fe3/scandir-1.9.0.tar.gz
+Installing collected packages: aniso8601, beautifulsoup4, certifi, chardet, Click, Werkzeug, ItsDangerous, MarkupSafe, Jinja2, Flask, Flask-HTTPAuth, six, pytz, Flask-RESTful, SQLAlchemy, Flask-SQLAlchemy, idna, nltk, numpy, python-dateutil, pandas, passlib, Pyphen, repoze.lru, urllib3, requests, scikit-learn, scipy, textstat, vaderSentiment, wincertstore, httplib2, oauth2, Flask-OAuth, aspy.yaml, cfgv, scandir, pathlib2, typing, importlib-resources, cached-property, identify, toml, contextlib2, importlib-metadata, nodeenv, pre-commit
+  Found existing installation: chardet 2.0.1
+    Uninstalling chardet-2.0.1:
+      Successfully uninstalled chardet-2.0.1
+  Running setup.py install for MarkupSafe: started
+    Running setup.py install for MarkupSafe: finished with status 'done'
+  Found existing installation: six 1.5.2
+    Uninstalling six-1.5.2:
+      Successfully uninstalled six-1.5.2
+  Running setup.py install for SQLAlchemy: started
+    Running setup.py install for SQLAlchemy: finished with status 'done'
+  Running setup.py install for nltk: started
+    Running setup.py install for nltk: finished with status 'done'
+  Running setup.py install for repoze.lru: started
+    Running setup.py install for repoze.lru: finished with status 'done'
+  Found existing installation: urllib3 1.7.1
+    Uninstalling urllib3-1.7.1:
+      Successfully uninstalled urllib3-1.7.1
+  Found existing installation: requests 2.2.1
+    Uninstalling requests-2.2.1:
+      Successfully uninstalled requests-2.2.1
+  Running setup.py install for textstat: started
+    Running setup.py install for textstat: finished with status 'done'
+  Running setup.py install for httplib2: started
+    Running setup.py install for httplib2: finished with status 'done'
+  Running setup.py install for Flask-OAuth: started
+    Running setup.py install for Flask-OAuth: finished with status 'done'
+  Running setup.py install for scandir: started
+    Running setup.py install for scandir: finished with status 'done'
+  Running setup.py install for nodeenv: started
+    Running setup.py install for nodeenv: finished with status 'done'
+Successfully installed Click-7.0 Flask-1.0.2 Flask-HTTPAuth-3.2.4 Flask-OAuth-0.12 Flask-RESTful-0.3.6 Flask-SQLAlchemy-2.3.2 ItsDangerous-1.1.0 Jinja2-2.10 MarkupSafe-1.0 Pyphen-0.9.5 SQLAlchemy-1.2.12 Werkzeug-0.14.1 aniso8601-3.0.2 aspy.yaml-1.1.1 beautifulsoup4-4.6.3 cached-property-1.5.1 certifi-2018.10.15 cfgv-1.1.0 chardet-3.0.4 contextlib2-0.5.5 httplib2-0.11.3 identify-1.1.7 idna-2.7 importlib-metadata-0.6 importlib-resources-1.0.2 nltk-3.3 nodeenv-1.3.3 numpy-1.15.3 oauth2-1.9.0.post1 pandas-0.23.4 passlib-1.7.1 pathlib2-2.3.2 pre-commit-1.12.0 python-dateutil-2.7.3 pytz-2018.6 repoze.lru-0.7 requests-2.20.0 scandir-1.9.0 scikit-learn-0.18 scipy-1.1.0 six-1.11.0 textstat-0.5.0 toml-0.10.0 typing-3.6.6 urllib3-1.24 vaderSentiment-3.2.1 wincertstore-0.2
+Collecting flake8
+  Downloading https://files.pythonhosted.org/packages/34/a6/49e2849a0e5464e1b5d621f63bc8453066f0f367bb3b744a33fca0bc1ddd/flake8-3.6.0-py2.py3-none-any.whl (68kB)
+Collecting configparser; python_version < "3.2" (from flake8)
+  Downloading https://files.pythonhosted.org/packages/7c/69/c2ce7e91c89dc073eb1aa74c0621c3eefbffe8216b3f9af9d3885265c01c/configparser-3.5.0.tar.gz
+Collecting pycodestyle<2.5.0,>=2.4.0 (from flake8)
+  Downloading https://files.pythonhosted.org/packages/e5/c6/ce130213489969aa58610042dff1d908c25c731c9575af6935c2dfad03aa/pycodestyle-2.4.0-py2.py3-none-any.whl (62kB)
+Collecting mccabe<0.7.0,>=0.6.0 (from flake8)
+  Downloading https://files.pythonhosted.org/packages/87/89/479dc97e18549e21354893e4ee4ef36db1d237534982482c3681ee6e7b57/mccabe-0.6.1-py2.py3-none-any.whl
+Collecting enum34; python_version < "3.4" (from flake8)
+  Downloading https://files.pythonhosted.org/packages/c5/db/e56e6b4bbac7c4a06de1c50de6fe1ef3810018ae11732a50f15f62c7d050/enum34-1.1.6-py2-none-any.whl
+Collecting pyflakes<2.1.0,>=2.0.0 (from flake8)
+  Downloading https://files.pythonhosted.org/packages/44/98/af7a72c9a543b1487d92813c648cb9b9adfbc96faef5455d60f4439aa99b/pyflakes-2.0.0-py2.py3-none-any.whl (53kB)
+Requirement already satisfied: setuptools>=30 in /usr/local/lib/python2.7/dist-packages (from flake8)
+Installing collected packages: configparser, pycodestyle, mccabe, enum34, pyflakes, flake8
+  Running setup.py install for configparser: started
+    Running setup.py install for configparser: finished with status 'done'
+Successfully installed configparser-3.5.0 enum34-1.1.6 flake8-3.6.0 mccabe-0.6.1 pycodestyle-2.4.0 pyflakes-2.0.0
+Requirement already satisfied: flask_httpauth in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied: Flask in /usr/local/lib/python2.7/dist-packages (from flask_httpauth)
+Requirement already satisfied: click>=5.1 in /usr/local/lib/python2.7/dist-packages (from Flask->flask_httpauth)
+Requirement already satisfied: Werkzeug>=0.14 in /usr/local/lib/python2.7/dist-packages (from Flask->flask_httpauth)
+Requirement already satisfied: itsdangerous>=0.24 in /usr/local/lib/python2.7/dist-packages (from Flask->flask_httpauth)
+Requirement already satisfied: Jinja2>=2.10 in /usr/local/lib/python2.7/dist-packages (from Flask->flask_httpauth)
+Requirement already satisfied: MarkupSafe>=0.23 in /usr/local/lib/python2.7/dist-packages (from Jinja2>=2.10->Flask->flask_httpauth)
+[nltk_data] Downloading collection u'all'
+[nltk_data]    | 
+[nltk_data]    | Downloading package abc to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/abc.zip.
+[nltk_data]    | Downloading package alpino to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/alpino.zip.
+[nltk_data]    | Downloading package biocreative_ppi to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/biocreative_ppi.zip.
+[nltk_data]    | Downloading package brown to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/brown.zip.
+[nltk_data]    | Downloading package brown_tei to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/brown_tei.zip.
+[nltk_data]    | Downloading package cess_cat to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/cess_cat.zip.
+[nltk_data]    | Downloading package cess_esp to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/cess_esp.zip.
+[nltk_data]    | Downloading package chat80 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/chat80.zip.
+[nltk_data]    | Downloading package city_database to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/city_database.zip.
+[nltk_data]    | Downloading package cmudict to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/cmudict.zip.
+[nltk_data]    | Downloading package comparative_sentences to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/comparative_sentences.zip.
+[nltk_data]    | Downloading package comtrans to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package conll2000 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/conll2000.zip.
+[nltk_data]    | Downloading package conll2002 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/conll2002.zip.
+[nltk_data]    | Downloading package conll2007 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package crubadan to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/crubadan.zip.
+[nltk_data]    | Downloading package dependency_treebank to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/dependency_treebank.zip.
+[nltk_data]    | Downloading package dolch to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/dolch.zip.
+[nltk_data]    | Downloading package europarl_raw to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/europarl_raw.zip.
+[nltk_data]    | Downloading package floresta to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/floresta.zip.
+[nltk_data]    | Downloading package framenet_v15 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/framenet_v15.zip.
+[nltk_data]    | Downloading package framenet_v17 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/framenet_v17.zip.
+[nltk_data]    | Downloading package gazetteers to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/gazetteers.zip.
+[nltk_data]    | Downloading package genesis to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/genesis.zip.
+[nltk_data]    | Downloading package gutenberg to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/gutenberg.zip.
+[nltk_data]    | Downloading package ieer to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/ieer.zip.
+[nltk_data]    | Downloading package inaugural to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/inaugural.zip.
+[nltk_data]    | Downloading package indian to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/indian.zip.
+[nltk_data]    | Downloading package jeita to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package kimmo to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/kimmo.zip.
+[nltk_data]    | Downloading package knbc to /home/travis/nltk_data...
+[nltk_data]    | Downloading package lin_thesaurus to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/lin_thesaurus.zip.
+[nltk_data]    | Downloading package mac_morpho to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/mac_morpho.zip.
+[nltk_data]    | Downloading package machado to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package masc_tagged to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package moses_sample to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping models/moses_sample.zip.
+[nltk_data]    | Downloading package movie_reviews to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/movie_reviews.zip.
+[nltk_data]    | Downloading package names to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/names.zip.
+[nltk_data]    | Downloading package nombank.1.0 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package nps_chat to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/nps_chat.zip.
+[nltk_data]    | Downloading package omw to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/omw.zip.
+[nltk_data]    | Downloading package opinion_lexicon to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/opinion_lexicon.zip.
+[nltk_data]    | Downloading package paradigms to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/paradigms.zip.
+[nltk_data]    | Downloading package pil to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/pil.zip.
+[nltk_data]    | Downloading package pl196x to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/pl196x.zip.
+[nltk_data]    | Downloading package ppattach to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/ppattach.zip.
+[nltk_data]    | Downloading package problem_reports to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/problem_reports.zip.
+[nltk_data]    | Downloading package propbank to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package ptb to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/ptb.zip.
+[nltk_data]    | Downloading package product_reviews_1 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/product_reviews_1.zip.
+[nltk_data]    | Downloading package product_reviews_2 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/product_reviews_2.zip.
+[nltk_data]    | Downloading package pros_cons to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/pros_cons.zip.
+[nltk_data]    | Downloading package qc to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/qc.zip.
+[nltk_data]    | Downloading package reuters to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package rte to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/rte.zip.
+[nltk_data]    | Downloading package semcor to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package senseval to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/senseval.zip.
+[nltk_data]    | Downloading package sentiwordnet to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/sentiwordnet.zip.
+[nltk_data]    | Downloading package sentence_polarity to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/sentence_polarity.zip.
+[nltk_data]    | Downloading package shakespeare to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/shakespeare.zip.
+[nltk_data]    | Downloading package sinica_treebank to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/sinica_treebank.zip.
+[nltk_data]    | Downloading package smultron to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/smultron.zip.
+[nltk_data]    | Downloading package state_union to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/state_union.zip.
+[nltk_data]    | Downloading package stopwords to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/stopwords.zip.
+[nltk_data]    | Downloading package subjectivity to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/subjectivity.zip.
+[nltk_data]    | Downloading package swadesh to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/swadesh.zip.
+[nltk_data]    | Downloading package switchboard to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/switchboard.zip.
+[nltk_data]    | Downloading package timit to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/timit.zip.
+[nltk_data]    | Downloading package toolbox to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/toolbox.zip.
+[nltk_data]    | Downloading package treebank to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/treebank.zip.
+[nltk_data]    | Downloading package twitter_samples to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/twitter_samples.zip.
+[nltk_data]    | Downloading package udhr to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/udhr.zip.
+[nltk_data]    | Downloading package udhr2 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/udhr2.zip.
+[nltk_data]    | Downloading package unicode_samples to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/unicode_samples.zip.
+[nltk_data]    | Downloading package universal_treebanks_v20 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package verbnet to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/verbnet.zip.
+[nltk_data]    | Downloading package verbnet3 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/verbnet3.zip.
+[nltk_data]    | Downloading package webtext to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/webtext.zip.
+[nltk_data]    | Downloading package wordnet to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/wordnet.zip.
+[nltk_data]    | Downloading package wordnet_ic to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/wordnet_ic.zip.
+[nltk_data]    | Downloading package words to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/words.zip.
+[nltk_data]    | Downloading package ycoe to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/ycoe.zip.
+[nltk_data]    | Downloading package rslp to /home/travis/nltk_data...
+[nltk_data]    |   Unzipping stemmers/rslp.zip.
+[nltk_data]    | Downloading package maxent_treebank_pos_tagger to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping taggers/maxent_treebank_pos_tagger.zip.
+[nltk_data]    | Downloading package universal_tagset to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping taggers/universal_tagset.zip.
+[nltk_data]    | Downloading package maxent_ne_chunker to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping chunkers/maxent_ne_chunker.zip.
+[nltk_data]    | Downloading package punkt to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping tokenizers/punkt.zip.
+[nltk_data]    | Downloading package book_grammars to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping grammars/book_grammars.zip.
+[nltk_data]    | Downloading package sample_grammars to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping grammars/sample_grammars.zip.
+[nltk_data]    | Downloading package spanish_grammars to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping grammars/spanish_grammars.zip.
+[nltk_data]    | Downloading package basque_grammars to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping grammars/basque_grammars.zip.
+[nltk_data]    | Downloading package large_grammars to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping grammars/large_grammars.zip.
+[nltk_data]    | Downloading package tagsets to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping help/tagsets.zip.
+[nltk_data]    | Downloading package snowball_data to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package bllip_wsj_no_aux to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping models/bllip_wsj_no_aux.zip.
+[nltk_data]    | Downloading package word2vec_sample to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping models/word2vec_sample.zip.
+[nltk_data]    | Downloading package panlex_swadesh to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package mte_teip5 to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/mte_teip5.zip.
+[nltk_data]    | Downloading package averaged_perceptron_tagger to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping taggers/averaged_perceptron_tagger.zip.
+[nltk_data]    | Downloading package averaged_perceptron_tagger_ru to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping
+[nltk_data]    |       taggers/averaged_perceptron_tagger_ru.zip.
+[nltk_data]    | Downloading package perluniprops to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping misc/perluniprops.zip.
+[nltk_data]    | Downloading package nonbreaking_prefixes to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping corpora/nonbreaking_prefixes.zip.
+[nltk_data]    | Downloading package vader_lexicon to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    | Downloading package porter_test to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping stemmers/porter_test.zip.
+[nltk_data]    | Downloading package wmt15_eval to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping models/wmt15_eval.zip.
+[nltk_data]    | Downloading package mwa_ppdb to
+[nltk_data]    |     /home/travis/nltk_data...
+[nltk_data]    |   Unzipping misc/mwa_ppdb.zip.
+[nltk_data]    | 
+[nltk_data]  Done downloading collection all
